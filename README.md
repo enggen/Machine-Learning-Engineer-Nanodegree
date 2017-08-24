@@ -1,3 +1,3 @@
 # Machine-Learning-Engineer-Nanodegree
-Udacity Machine Learning Nanodegree Projects and Course Resources
+Udacity Machine Learning Nanodegree Projects
 
