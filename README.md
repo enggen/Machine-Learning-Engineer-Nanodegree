@@ -5,6 +5,6 @@ Machine learning represents a key evolution in the fields of computer science, d
 
 
 -  [Boston Housing:]() Predicting Boston Housing Prices
--  [Finding Donars:]() Finding Donors for CharityML
+-  [Finding Donors:]() Finding Donors for CharityML
 
 
