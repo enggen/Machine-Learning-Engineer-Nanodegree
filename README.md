@@ -8,6 +8,7 @@ Machine learning represents a key evolution in the fields of computer science, d
 -  [Finding Donors:]() Finding Donors for CharityML
 - [CIFAR10 Image classification with CNN in Tensorflow]()
 - [Dog Breed Classifier:]() Build a dog breed classifier using a Convolutional Neural Network 
+- [Creating Customer Segments]()
 
 
 
