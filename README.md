@@ -6,6 +6,7 @@ Machine learning represents a key evolution in the fields of computer science, d
 
 -  [Boston Housing:]() Predicting Boston Housing Prices
 -  [Finding Donors:]() Finding Donors for CharityML
-- CIFAR10 Image classification with CNN in Tensorflow
+- [CIFAR10 Image classification with CNN in Tensorflow]()
+
 
 
